@@ -1,0 +1,14 @@
+{
+  "greenfield": {
+    "scenario": "greenfield",
+    "requirement": "Build a URL shortener with redirects and click analytics."
+  },
+  "brownfield": {
+    "scenario": "brownfield",
+    "requirement": "Add custom aliases without breaking existing generated links."
+  },
+  "ambiguous": {
+    "scenario": "ambiguous",
+    "requirement": "Make links secure and keep analytics."
+  }
+}
